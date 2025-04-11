@@ -4,13 +4,61 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
+<!-- created manually to boost SEO keywords -->
 
 <url>
   <loc>https://squaretec.store/</loc>
-  <lastmod>2025-04-11T18:45:32+00:00</lastmod>
+  <lastmod>2025-04-11</lastmod>
 </url>
 
+<url>
+  <loc>https://squaretec.store/gpu/gtx-1660s</loc>
+  <lastmod>2025-04-11</lastmod>
+</url>
+
+<url>
+  <loc>https://squaretec.store/gpu/gtx-1660-super</loc>
+  <lastmod>2025-04-11</lastmod>
+</url>
+
+<url>
+  <loc>https://squaretec.store/gpu/rx-580</loc>
+  <lastmod>2025-04-11</lastmod>
+</url>
+
+<url>
+  <loc>https://squaretec.store/gpu/rtx-2060</loc>
+  <lastmod>2025-04-11</lastmod>
+</url>
+
+<url>
+  <loc>https://squaretec.store/gpu/rtx-3060</loc>
+  <lastmod>2025-04-11</lastmod>
+</url>
+
+<url>
+  <loc>https://squaretec.store/gpu/rtx-3060-ti</loc>
+  <lastmod>2025-04-11</lastmod>
+</url>
+
+<url>
+  <loc>https://squaretec.store/brand/sapphire</loc>
+  <lastmod>2025-04-11</lastmod>
+</url>
+
+<url>
+  <loc>https://squaretec.store/brand/asus</loc>
+  <lastmod>2025-04-11</lastmod>
+</url>
+
+<url>
+  <loc>https://squaretec.store/brand/msi</loc>
+  <lastmod>2025-04-11</lastmod>
+</url>
+
+<url>
+  <loc>https://squaretec.store/brand/gigabyte</loc>
+  <lastmod>2025-04-11</lastmod>
+</url>
 
 </urlset>
